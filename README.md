@@ -13,9 +13,12 @@
 - ConstraintLayout(guidelines, barriers... etc).
 > Libraries Used 
 - AndroidX
-- Rx-Android
+- Rx-java3
 - Room Database
 - Retrofit
-- Pagination 
-> Features
+- Pagination
+- ViewModel
+- okHttp3
+- glide
+
 
