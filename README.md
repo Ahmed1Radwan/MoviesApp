@@ -1,5 +1,6 @@
 # MoviesApp: Discover the most popular and top rated movies playing. Movies data fetched using themoviedb.org API.
 > App
+
 https://github.com/Ahmed1Radwan/MoviesApp/upload/main/assets/Soloop_20220520171739.mp4
 
 > Features
