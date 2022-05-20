@@ -19,4 +19,3 @@
 - Pagination 
 > Features
 
-![Requests](https://github.com/Ahmed1Radwan/myapp/blob/main/assets/1.png)
