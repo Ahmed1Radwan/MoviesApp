@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="item_offset">3dp</dimen>
+    <integer name="span_count">3</integer>
+    <dimen name="fab_margin">16dp</dimen>
+
+    <integer name="fragmentsWeights">1</integer>
+    <integer name="tabLayoutWeights">1</integer>
+    <dimen name="marginTopFragments">4dp</dimen>
+    <dimen name="movieCardViewWidth">160dp</dimen>
+    <dimen name="movieTitleHeight">52dp</dimen>
+    <integer name="movieTitleLines">2</integer>
+    <dimen name="movieTitlePadding">8dp</dimen>
+
+    <dimen name="networkStatePadding">16dp</dimen>
+
+    <dimen name="trailerItemMargin">8dp</dimen>
+    <dimen name="trailerItemRadious">4dp</dimen>
+    <dimen name="trailerItemPlayImageSize">48dp</dimen>
+    <integer name="movieTrailerLines">2</integer>
+    <dimen name="movieTrailerMargin">8dp</dimen>
+    <dimen name="movieTrailerPadding">16dp</dimen>
+
+
+    <dimen name="reviewCardViewRadious">8dp</dimen>
+    <dimen name="reviewCardViewMargin8">8dp</dimen>
+    <dimen name="reviewCardViewMargin16">16dp</dimen>
+    <dimen name="reviewCardViewMargin20">20dp</dimen>
+
+    <dimen name="reviewTextViewsMargin8">8dp</dimen>
+    <dimen name="reviewTextViewsMargin16">16dp</dimen>
+    <dimen name="reviewTextViewsMargin32">32dp</dimen>
+
+
+    <dimen name="overviewLabelsMargin8">8dp</dimen>
+    <dimen name="overviewLabelsMargin16">16dp</dimen>
+    <dimen name="overviewTextMargin16">16dp</dimen>
+    <dimen name="overviewTextMargin8">8dp</dimen>
+    <dimen name="overviewTextMargin4">4dp</dimen>
+
+    <dimen name="overviewViewDividerWidth">0dp</dimen>
+    <dimen name="overviewViewDividerHeight">1dp</dimen>
+    <dimen name="overviewViewDividerMargin">1dp</dimen>
+    <dimen name="overviewViewDividerMargin8">8dp</dimen>
+
+
+    <dimen name="fragmentDetailAppBarHeight">200dp</dimen>
+    <dimen name="fragmentDetailAppBarElevation">4dp</dimen>
+    <dimen name="fragmentDetailMargin8">8dp</dimen>
+    <dimen name="fragmentDetailMargin16">16dp</dimen>
+    <dimen name="fragmentDetailMargin32">32dp</dimen>
+    <dimen name="fragmentDetailFavoriteWidth">33dp</dimen>
+    <dimen name="fragmentDetailFavoriteHeight">27dp</dimen>
+
+
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="horizontal"
+    android:baselineAligned="false"
+    tools:context=".ui.activities.MainActivity">
+
+
+    <fragment
+        android:id="@+id/moviesFragmentPane"
+        android:name="com.ahmedhamdy.myapplication2.ui.fragments.MoviesFragment"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="@integer/fragmentsWeights"
+        tools:layout="@layout/fragment_main"/>
+
+    <fragment
+        android:id="@+id/moviesDetailsFragmentPane"
+        android:name="com.ahmedhamdy.myapplication2.ui.fragments.DetailFragment"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="@integer/fragmentsWeights"
+        tools:layout="@layout/fragment_detail"/>
+
+</androidx.appcompat.widget.LinearLayoutCompat>

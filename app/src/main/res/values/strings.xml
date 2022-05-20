@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">حليب الخير</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="label_votes">%s votes</string>
+
+    <string name="popularFragment">Popular Movies</string>
+    <string name="topRatedFragment">Top Rated Movies</string>
+    <string name="favoriteFragment">Favorite Movies</string>
+
+    <string name="overViewFragment">Details</string>
+    <string name="ReviewsFragment">Reviews</string>
+    <string name="trailersFragment">Trailers</string>
+
+
+    <string name="error_loading_movies">Error While Getting Movies</string>
+    <string name="error_loading_movie_detail">Error While Getting Movie Detail</string>
+
+
+
+</resources>
